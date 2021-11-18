@@ -1,0 +1,35 @@
+_repo: The-Heir_66751
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Jacomb Hood, G. P. (George Percy)
+    aliases:
+    - Hood, G. P. Jacomb (George Percy Jacomb)
+    - Jacomb-Hood, George Percy
+    - Jacomb Hood, George Percy
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '43957'
+    url: http://www.gutenberg.org/2009/agents/43957
+    wikipedia: https://en.wikipedia.org/wiki/George_Percy_Jacomb-Hood
+creator:
+  author:
+    agent_name: Grier, Sydney C.
+    alias: Gregg, Hilda Caroline
+    birthdate: 1868
+    deathdate: 1933
+    gutenberg_agent_id: '26562'
+    url: http://www.gutenberg.org/2009/agents/26562
+    wikipedia: https://en.wikipedia.org/wiki/Hilda_Gregg
+description: ''
+gutenberg_issued: '2021-11-16'
+identifiers:
+  gutenberg: '66751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Heir
+url: http://www.gutenberg.org/ebooks/66751
