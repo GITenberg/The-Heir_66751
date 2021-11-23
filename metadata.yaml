@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '43957'
     url: http://www.gutenberg.org/2009/agents/43957
     wikipedia: https://en.wikipedia.org/wiki/George_Percy_Jacomb-Hood
+covers:
+- cover_type: archival
+  image_path: 66751-h/images/cover.jpg
 creator:
   author:
     agent_name: Grier, Sydney C.
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26562
     wikipedia: https://en.wikipedia.org/wiki/Hilda_Gregg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66751#The-Heir
 gutenberg_issued: '2021-11-16'
 identifiers:
   gutenberg: '66751'
